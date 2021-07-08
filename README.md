@@ -32,3 +32,10 @@ I am a Full Stack developer, with more than 5 years of experience in Front-end (
 
 <img src="https://img.shields.io/badge/-Photoshop-blue"> | <img src="https://img.shields.io/badge/-Illustrator-orange">
 
+## Some of my work
+
+💻 https://www.onetalentperu.com/
+💻 http://www.unpret.com.pe/
+💻 http://www.gofinanzastax.com/
+💻 https://www.icortafuego.com/
+💻 https://www.zonarocket.pe/
