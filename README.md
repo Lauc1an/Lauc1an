@@ -35,7 +35,11 @@ I am a Full Stack developer, with more than 5 years of experience in Front-end (
 ## Some of my work
 
 💻 https://www.onetalentperu.com/
+
 💻 http://www.unpret.com.pe/
+
 💻 http://www.gofinanzastax.com/
+
 💻 https://www.icortafuego.com/
+
 💻 https://www.zonarocket.pe/
