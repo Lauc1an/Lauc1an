@@ -1,45 +1,36 @@
-<img src="images/baner-github.jpg" style="height: auto; width: 100%;"> 
+# 👋 Hi, I'm Alexander Pomareda Castro  
+### Full Stack Developer | Passionate About Technology and Innovation  
 
-### Hi there! I'm Alexander Pomareda 👋
+Welcome to my GitHub profile! I am a Full Stack Developer with over 7 years of experience building robust and scalable digital solutions. I specialize in modern technologies like **Vue.js**, **TypeScript**, **Laravel**, and more, combined with a passion for continuous learning and process optimization.  
 
-I am a Full Stack developer, with more than 5 years of experience in Front-end (Client) and Back-end (Server), I am passionate about technology and computing, I have a great analytical capacity to solve problems that my clients have, always looking for the most profitable solutions for their projects. I can work in a team as well as organize and lead a development team. I am a mostly self-taught person who is always in constant research of new technologies.
+## 🚀 About Me  
+- 🌍 Based in Lima, Perú, I collaborate with global teams.  
+- 👨‍💻 Experienced in both Frontend and Backend development, crafting web applications that deliver outstanding user experiences.  
+- 🌱 Constantly learning new technologies to stay ahead in the fast-evolving tech world.  
+- 🎯 Focused on creating innovative, cost-effective solutions aligned with client goals.  
 
-## Languages ​​I'm  skilled
+## 🛠️ Technologies and Tools  
+- **Frontend:** HTML, CSS, Sass, JavaScript, TypeScript, Vue.js, React.js, Nuxt.js  
+- **Backend:** PHP, Laravel, MySQL, MongoDB  
+- **DevOps:** Linux, Git, CI/CD (TeamCity, Octopus), Nginx  
+- **Design:** Adobe Illustrator, Adobe Photoshop  
 
-<img src="https://img.shields.io/badge/-HTML-orange"> | <img src="https://img.shields.io/badge/-CSS-blue"> | <img src="https://img.shields.io/badge/-Javascript-brightgreen"> | <img src="https://img.shields.io/badge/-PHP-8892BF">
+## 📂 Featured Projects  
+- 🌟 **[Medicare Supplement](https://www.medicaresupplement.com):** Frontend development using Vue.js and TypeScript for a high-traffic website.
+- 🌟 **[Mutual of Omaha Medicare Plans](https://www.mutualofomahamedicareplans.com):** Frontend development using Vue.js and TypeScript for a high-traffic website.
+- 🌟 **[TUSPACIO](http://www.tuspacio.com.pe):** Bilingual service website with a project catalog built using Laravel and Livewire.
+- 🌟 **[Falke Perú](http://www.falkeperu.com):** Dynamic product catalog with optimized search capabilities using Laravel.
+- 🌟 **[Zona Rocket](http://www.zonarocket.pe):** Dynamic product catalog with optimized search capabilities built using Laravel and Livewire.
+- 🌟 **[Importaciones Cortafuego](http://www.icortafuego.com):** Product catalog with innovative layout built using Laravel.
 
-## Frameworks I use
+## 🌟 My Development Philosophy  
+Code should not only work but also be **readable**, **scalable**, and **maintainable**. I focus on implementing best practices, ensuring accessibility, and delivering efficient solutions tailored to each project.  
 
-<img src="https://img.shields.io/badge/-Bootstrap-7952b3"> | <img src="https://img.shields.io/badge/-JQuery-blue"> | <img src="https://img.shields.io/badge/-Laravel-ff2d20"> | <img src="https://img.shields.io/badge/-Codeigniter-dd4814"> | <img src="https://img.shields.io/badge/-NodeJS-026e00"> | <img src="https://img.shields.io/badge/-VueJS-42b983">
+---
 
-## Database I complement
+🌐 **Connect with Me:**  
+- 📧 Email: alexanderpomaredacastro@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexanderpomareda/)  
+- 🖥️ [Portfolio](https://pomareda.dev)  
 
-<img src="https://img.shields.io/badge/-MySQL-4479a1"> | <img src="https://img.shields.io/badge/-MongoDB-13aa52">
-
-## IDE's I like
-
-<img src="https://img.shields.io/badge/-Atom-brightgreen"> | <img src="https://img.shields.io/badge/-VS%20Code-blue">
-
-## OS's I master
-
-<img src="https://img.shields.io/badge/-Windows-blue"> | <img src="https://img.shields.io/badge/-MacOS-lightgrey"> | <img src="https://img.shields.io/badge/-Linux-yellow">
-
-## Languages ​​I know
-
-<img src="https://img.shields.io/badge/-Spanish-blue"> | <img src="https://img.shields.io/badge/-English-red">
-
-## My other Skills
-
-<img src="https://img.shields.io/badge/-Photoshop-blue"> | <img src="https://img.shields.io/badge/-Illustrator-orange">
-
-## Some of my work
-
-💻 https://www.onetalentperu.com/
-
-💻 http://www.unpret.com.pe/
-
-💻 http://www.gofinanzastax.com/
-
-💻 https://www.icortafuego.com/
-
-💻 https://www.zonarocket.pe/
+Thanks for visiting my profile! 😊
